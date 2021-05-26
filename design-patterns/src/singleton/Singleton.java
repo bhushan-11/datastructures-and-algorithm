@@ -77,6 +77,6 @@ public class Singleton {
 		
 		Singleton fromStudent = Singleton.getInstance();
 		
-		fromStudent.printDetails("This is a message from Student");
+		fromStudent.printDetails("This is a message from Student");  
 	}
 }
