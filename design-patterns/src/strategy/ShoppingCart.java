@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class ShoppingCart {
-
+//Context class --> its behavior changes depending upon the payment method used to pay
 	
 	List<Item> items;
 	
