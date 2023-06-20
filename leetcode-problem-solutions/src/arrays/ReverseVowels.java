@@ -29,9 +29,11 @@ public class ReverseVowels {
             while( end > 0 && !isVowel(s.charAt(end))){
                 end --;
             }
-            if(start > end){
+            if(start < end){
                 swap(schar, start, end);
             }
+            start ++;
+            end --;
         }
 
         return new String(schar);
