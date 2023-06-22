@@ -1,4 +1,4 @@
-package arrays;
+package arrays.easy;
 
 public class GCD_Strings {
 

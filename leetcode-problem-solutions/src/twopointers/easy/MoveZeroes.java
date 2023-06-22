@@ -1,4 +1,4 @@
-package twopointers;
+package twopointers.easy;
 
 public class MoveZeroes {
 
